@@ -1,2 +1,2 @@
 # tasks
-Anguler + .net
+.net server
