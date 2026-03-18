@@ -38,7 +38,7 @@ app.MapPost("/tasks", async (SaveTaskRequest request, TasksFileService tasksFile
     {
         Id = tasks.Count == 0 ? 1 : tasks.Max(task => task.Id) + 1,
         Title = request.Title.Trim(),
-        Description = request.Description.Trim()
+        Description = request.Description.Trim(),
         Priority = request.Priority,
         DueDate = request.DueDate,
         Status = request.Status

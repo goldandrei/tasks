@@ -24,3 +24,4 @@ C:\dev\task-manager-server\obj\Debug\net8.0\refint\task-manager-server.dll
 C:\dev\task-manager-server\obj\Debug\net8.0\task-manager-server.pdb
 C:\dev\task-manager-server\obj\Debug\net8.0\task-manager-server.genruntimeconfig.cache
 C:\dev\task-manager-server\obj\Debug\net8.0\ref\task-manager-server.dll
+C:\dev\task-manager-server\obj\Debug\net8.0\task-manager-server.sourcelink.json
