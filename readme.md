@@ -4,7 +4,7 @@
 
 1. Open a terminal
 2. Go to the server folder: task-manager-server
-   3.Run the server:
+3. Run the server:
    dotnet run
 
 The server runs on:
